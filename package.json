@@ -7,6 +7,8 @@
     "@types/bun": "latest",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.5",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.8",
     "prisma": "^6.18.0"
   },
   "scripts": {
@@ -19,6 +21,8 @@
   "dependencies": {
     "@prisma/client": "^6.18.0",
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   }
 }
